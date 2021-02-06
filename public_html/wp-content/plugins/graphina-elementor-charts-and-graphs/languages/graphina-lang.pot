@@ -1,0 +1,1020 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Graphina - Elementor Charts and Graphs\n"
+"POT-Creation-Date: 2021-02-05 23:36+0530\n"
+"PO-Revision-Date: 2021-02-05 23:36+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: graphina-charts-for-elementor.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: elementor/charts/animated-radial/widget/animated-radial.php:95
+#: elementor/charts/area/widget/area_chart.php:101
+#: elementor/charts/bubble/widget/bubble_chart.php:131
+#: elementor/charts/candle/widget/candle_chart.php:138
+#: elementor/charts/column/widget/column_chart.php:100
+#: elementor/charts/donut/widget/donut_chart.php:97
+#: elementor/charts/heatmap/widget/heatmap_chart.php:99
+#: elementor/charts/line/widget/line_chart.php:103
+#: elementor/charts/pie/widget/pie_chart.php:99
+#: elementor/charts/polar/widget/polar_chart.php:93
+#: elementor/charts/radar/widget/radar_chart.php:94
+#: elementor/charts/radial/widget/radial_chart.php:93
+#: elementor/charts/timeline/widget/timeline_chart.php:120
+msgid "Chart Setting"
+msgstr ""
+
+#: elementor/charts/animated-radial/widget/animated-radial.php:102
+msgid "Height"
+msgstr ""
+
+#: elementor/charts/animated-radial/widget/animated-radial.php:112
+#: utils/graphina_chart_helper.php:2097 utils/graphina_chart_helper.php:2454
+msgid "Color"
+msgstr ""
+
+#: elementor/charts/animated-radial/widget/animated-radial.php:121
+#: utils/graphina_chart_helper.php:2465
+msgid "Second Color"
+msgstr ""
+
+#: elementor/charts/animated-radial/widget/animated-radial.php:130
+#: utils/graphina_chart_helper.php:1206 utils/graphina_chart_helper.php:2109
+msgid "Stroke Color"
+msgstr ""
+
+#: elementor/charts/animated-radial/widget/animated-radial.php:139
+msgid "Line Space"
+msgstr ""
+
+#: elementor/charts/animated-radial/widget/animated-radial.php:148
+msgid "Animation Speed"
+msgstr ""
+
+#: elementor/charts/area/widget/area_chart.php:138
+msgid "Area Shape"
+msgstr ""
+
+#: elementor/charts/area/widget/area_chart.php:168
+#: elementor/charts/column/widget/column_chart.php:247
+#: elementor/charts/line/widget/line_chart.php:172
+msgid "Category Value"
+msgstr ""
+
+#: elementor/charts/area/widget/area_chart.php:170
+#: elementor/charts/area/widget/area_chart.php:265
+#: elementor/charts/candle/widget/candle_chart.php:342
+#: elementor/charts/candle/widget/candle_chart.php:351
+#: elementor/charts/candle/widget/candle_chart.php:360
+#: elementor/charts/candle/widget/candle_chart.php:369
+#: elementor/charts/column/widget/column_chart.php:249
+#: elementor/charts/column/widget/column_chart.php:342
+#: elementor/charts/donut/widget/donut_chart.php:215
+#: elementor/charts/heatmap/widget/heatmap_chart.php:185
+#: elementor/charts/heatmap/widget/heatmap_chart.php:289
+#: elementor/charts/line/widget/line_chart.php:174
+#: elementor/charts/line/widget/line_chart.php:270
+#: elementor/charts/pie/widget/pie_chart.php:206
+#: elementor/charts/polar/widget/polar_chart.php:198
+#: elementor/charts/radar/widget/radar_chart.php:154
+#: elementor/charts/radar/widget/radar_chart.php:345
+#: elementor/charts/radial/widget/radial_chart.php:300
+#: elementor/charts/timeline/widget/timeline_chart.php:203
+msgid "Add Value"
+msgstr ""
+
+#: elementor/charts/area/widget/area_chart.php:178
+#: elementor/charts/column/widget/column_chart.php:257
+#: elementor/charts/heatmap/widget/heatmap_chart.php:194
+#: elementor/charts/line/widget/line_chart.php:182
+#: elementor/charts/radar/widget/radar_chart.php:162
+#: elementor/charts/timeline/widget/timeline_chart.php:211
+msgid "Categories"
+msgstr ""
+
+#: elementor/charts/area/widget/area_chart.php:210
+#: elementor/charts/bubble/widget/bubble_chart.php:419
+#: elementor/charts/candle/widget/candle_chart.php:278
+#: elementor/charts/column/widget/column_chart.php:287
+#: elementor/charts/donut/widget/donut_chart.php:161
+#: elementor/charts/heatmap/widget/heatmap_chart.php:233
+#: elementor/charts/line/widget/line_chart.php:215
+#: elementor/charts/pie/widget/pie_chart.php:152
+#: elementor/charts/polar/widget/polar_chart.php:144
+#: elementor/charts/radar/widget/radar_chart.php:290
+#: elementor/charts/radial/widget/radial_chart.php:247
+#: elementor/charts/timeline/widget/timeline_chart.php:242
+msgid "Element "
+msgstr ""
+
+#: elementor/charts/area/widget/area_chart.php:252
+#: elementor/charts/bubble/widget/bubble_chart.php:462
+#: elementor/charts/candle/widget/candle_chart.php:321
+#: elementor/charts/column/widget/column_chart.php:330
+#: elementor/charts/heatmap/widget/heatmap_chart.php:276
+#: elementor/charts/line/widget/line_chart.php:258
+#: elementor/charts/radar/widget/radar_chart.php:332
+#: elementor/charts/timeline/widget/timeline_chart.php:285
+msgid "Add Tile"
+msgstr ""
+
+#: elementor/charts/area/widget/area_chart.php:273
+#: elementor/charts/area/widget/area_chart.php:294
+#: elementor/charts/line/widget/line_chart.php:278
+#: elementor/charts/line/widget/line_chart.php:299
+msgid "Values"
+msgstr ""
+
+#: elementor/charts/area/widget/area_chart.php:375
+#: elementor/charts/bubble/widget/bubble_chart.php:550
+#: elementor/charts/candle/widget/candle_chart.php:199
+#: elementor/charts/candle/widget/candle_chart.php:422
+#: elementor/charts/column/widget/column_chart.php:465
+#: elementor/charts/donut/widget/donut_chart.php:251
+#: elementor/charts/heatmap/widget/heatmap_chart.php:367
+#: elementor/charts/line/widget/line_chart.php:375
+#: elementor/charts/pie/widget/pie_chart.php:246
+#: elementor/charts/polar/widget/polar_chart.php:238
+#: elementor/charts/radar/widget/radar_chart.php:415
+#: elementor/charts/radial/widget/radial_chart.php:358
+#: elementor/charts/timeline/widget/timeline_chart.php:354
+#: utils/graphina_chart_helper.php:467
+msgid "Loading..."
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:179
+#: elementor/charts/column/widget/column_chart.php:202
+#: elementor/charts/heatmap/widget/heatmap_chart.php:147
+#: elementor/charts/radial/widget/radial_chart.php:141
+#: utils/graphina_chart_helper.php:1992
+msgid "Plot Settings"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:187
+msgid "Fill Opacity"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:222
+msgid "3D Chart"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:224
+#: elementor/charts/bubble/widget/bubble_chart.php:235
+#: elementor/charts/candle/widget/candle_chart.php:226
+#: elementor/charts/column/widget/column_chart.php:155
+#: elementor/charts/column/widget/column_chart.php:166
+#: elementor/charts/radial/widget/radial_chart.php:151
+#: utils/graphina_chart_helper.php:212 utils/graphina_chart_helper.php:239
+#: utils/graphina_chart_helper.php:347 utils/graphina_chart_helper.php:770
+#: utils/graphina_chart_helper.php:1898 utils/graphina_chart_helper.php:1945
+#: utils/graphina_chart_helper.php:2163 utils/graphina_chart_helper.php:2180
+#: utils/graphina_chart_helper.php:2244 utils/graphina_chart_helper.php:2438
+msgid "Yes"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:225
+#: elementor/charts/bubble/widget/bubble_chart.php:236
+#: elementor/charts/candle/widget/candle_chart.php:227
+#: elementor/charts/column/widget/column_chart.php:156
+#: elementor/charts/column/widget/column_chart.php:167
+#: elementor/charts/radial/widget/radial_chart.php:152
+#: utils/graphina_chart_helper.php:213 utils/graphina_chart_helper.php:240
+#: utils/graphina_chart_helper.php:348 utils/graphina_chart_helper.php:771
+#: utils/graphina_chart_helper.php:1899 utils/graphina_chart_helper.php:1946
+#: utils/graphina_chart_helper.php:2164 utils/graphina_chart_helper.php:2181
+#: utils/graphina_chart_helper.php:2245 utils/graphina_chart_helper.php:2439
+msgid "No"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:233
+msgid "Custom Bubble Radius"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:244
+msgid "Minimum Bubble Radius"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:258
+msgid "Maximum Bubble Radius"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:278
+#: utils/graphina_chart_helper.php:910
+msgid "X-Axis Setting"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:315
+#: utils/graphina_chart_helper.php:948 utils/graphina_chart_helper.php:1220
+msgid "Tooltip"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:317
+#: elementor/charts/bubble/widget/bubble_chart.php:328
+#: elementor/charts/candle/widget/candle_chart.php:188
+#: elementor/charts/radar/widget/radar_chart.php:226
+#: elementor/charts/radar/widget/radar_chart.php:276
+#: utils/graphina_chart_helper.php:201 utils/graphina_chart_helper.php:456
+#: utils/graphina_chart_helper.php:493 utils/graphina_chart_helper.php:542
+#: utils/graphina_chart_helper.php:833 utils/graphina_chart_helper.php:950
+#: utils/graphina_chart_helper.php:961 utils/graphina_chart_helper.php:973
+#: utils/graphina_chart_helper.php:1087 utils/graphina_chart_helper.php:1173
+#: utils/graphina_chart_helper.php:1185 utils/graphina_chart_helper.php:1222
+#: utils/graphina_chart_helper.php:1233 utils/graphina_chart_helper.php:1245
+#: utils/graphina_chart_helper.php:1345 utils/graphina_chart_helper.php:1816
+#: utils/graphina_chart_helper.php:2002 utils/graphina_chart_helper.php:2075
+msgid "Hide"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:318
+#: elementor/charts/bubble/widget/bubble_chart.php:329
+#: elementor/charts/candle/widget/candle_chart.php:189
+#: elementor/charts/radar/widget/radar_chart.php:227
+#: elementor/charts/radar/widget/radar_chart.php:277
+#: utils/graphina_chart_helper.php:202 utils/graphina_chart_helper.php:457
+#: utils/graphina_chart_helper.php:491 utils/graphina_chart_helper.php:494
+#: utils/graphina_chart_helper.php:543 utils/graphina_chart_helper.php:834
+#: utils/graphina_chart_helper.php:951 utils/graphina_chart_helper.php:962
+#: utils/graphina_chart_helper.php:974 utils/graphina_chart_helper.php:1088
+#: utils/graphina_chart_helper.php:1174 utils/graphina_chart_helper.php:1186
+#: utils/graphina_chart_helper.php:1223 utils/graphina_chart_helper.php:1234
+#: utils/graphina_chart_helper.php:1246 utils/graphina_chart_helper.php:1346
+#: utils/graphina_chart_helper.php:1817 utils/graphina_chart_helper.php:1896
+#: utils/graphina_chart_helper.php:2003 utils/graphina_chart_helper.php:2076
+#: utils/graphina_chart_helper.php:2161 utils/graphina_chart_helper.php:2242
+msgid "Show"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:326
+#: elementor/charts/radar/widget/radar_chart.php:224
+#: elementor/charts/radar/widget/radar_chart.php:274
+#: utils/graphina_chart_helper.php:971 utils/graphina_chart_helper.php:1243
+msgid "Labels"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:337
+#: utils/graphina_chart_helper.php:504 utils/graphina_chart_helper.php:842
+#: utils/graphina_chart_helper.php:982 utils/graphina_chart_helper.php:1254
+msgid "Position"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:342
+#: utils/graphina_chart_helper.php:62 utils/graphina_chart_helper.php:847
+#: utils/graphina_chart_helper.php:987
+msgid "Top"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:346
+#: utils/graphina_chart_helper.php:64 utils/graphina_chart_helper.php:855
+#: utils/graphina_chart_helper.php:991
+msgid "Bottom"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:359
+#: utils/graphina_chart_helper.php:1004
+msgid "Labels Auto Rotate"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:361
+#: utils/graphina_chart_helper.php:1006
+msgid "False"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:362
+#: utils/graphina_chart_helper.php:1007
+msgid "True"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:373
+#: utils/graphina_chart_helper.php:1018 utils/graphina_chart_helper.php:1291
+msgid "Rotate"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:387
+#: utils/graphina_chart_helper.php:1033 utils/graphina_chart_helper.php:1267
+msgid "Offset-X"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:399
+#: utils/graphina_chart_helper.php:1045 utils/graphina_chart_helper.php:1279
+msgid "Offset-Y"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:460
+#: elementor/charts/column/widget/column_chart.php:328
+msgid "Element Title"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:474
+msgid "Add X Value"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:483
+msgid "Add Y Value"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:492
+msgid "Add Z Value"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:504
+#: elementor/charts/candle/widget/candle_chart.php:377
+#: elementor/charts/column/widget/column_chart.php:350
+#: elementor/charts/column/widget/column_chart.php:375
+#: elementor/charts/heatmap/widget/heatmap_chart.php:297
+#: elementor/charts/radar/widget/radar_chart.php:353
+msgid "Chart value list"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:175
+#: utils/graphina_chart_helper.php:443
+msgid "Height (px)"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:186
+#: utils/graphina_chart_helper.php:454
+msgid "Toolbar"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:197
+#: utils/graphina_chart_helper.php:465
+msgid "No Data Text"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:216
+#: utils/graphina_chart_helper.php:647
+msgid "Fill Settings"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:224
+msgid "Color Show"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:235
+#: utils/graphina_chart_helper.php:671
+msgid "Opacity"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:247
+msgid "Upward Color"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:256
+msgid "Downward Color"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:319
+#: utils/graphina_chart_helper.php:1431
+msgid "Title"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:331
+msgid "Chart Date ( X ) Value"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:333
+#: elementor/charts/timeline/widget/timeline_chart.php:297
+#: elementor/charts/timeline/widget/timeline_chart.php:306
+msgid "Select Date"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:340
+msgid "Open Value"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:349
+msgid "High Value"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:358
+msgid "Low Value"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:367
+msgid "Close Value"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:141
+msgid "Column Width"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:153
+#: utils/graphina_chart_helper.php:729
+msgid "Horizontal"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:164
+msgid "Stacked Columns"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:175
+msgid "Stack Type"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:179
+msgid "Normal"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:180
+msgid "Percentage"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:210
+msgid "Starting Shape"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:214
+#: elementor/charts/column/widget/column_chart.php:227
+msgid "Flat"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:215
+#: elementor/charts/column/widget/column_chart.php:228
+msgid "Rounded"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:223
+msgid "Ending Shape"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:340
+msgid "Chart Value"
+msgstr ""
+
+#: elementor/charts/donut/widget/donut_chart.php:205
+#: elementor/charts/pie/widget/pie_chart.php:196
+#: elementor/charts/polar/widget/polar_chart.php:188
+#: elementor/charts/radial/widget/radial_chart.php:290
+msgid "Add Label"
+msgstr ""
+
+#: elementor/charts/heatmap/widget/heatmap_chart.php:155
+msgid "Matrix Radius"
+msgstr ""
+
+#: elementor/charts/line/widget/line_chart.php:140
+msgid "Line Shape"
+msgstr ""
+
+#: elementor/charts/radar/widget/radar_chart.php:187
+msgid "Advance X-Axis Setting"
+msgstr ""
+
+#: elementor/charts/radar/widget/radar_chart.php:237
+msgid "Advance Y-Axis Setting"
+msgstr ""
+
+#: elementor/charts/radial/widget/radial_chart.php:149
+msgid "Linecap Stroke Rounded"
+msgstr ""
+
+#: elementor/charts/radial/widget/radial_chart.php:160
+msgid "Line width (%)"
+msgstr ""
+
+#: elementor/charts/radial/widget/radial_chart.php:195
+msgid "Radial Shape"
+msgstr ""
+
+#: elementor/charts/radial/widget/radial_chart.php:199
+msgid "Circle"
+msgstr ""
+
+#: elementor/charts/radial/widget/radial_chart.php:200
+msgid "Semi Circle"
+msgstr ""
+
+#: elementor/charts/radial/widget/radial_chart.php:201
+#: utils/graphina_chart_helper.php:1943
+msgid "Custom"
+msgstr ""
+
+#: elementor/charts/radial/widget/radial_chart.php:209
+msgid "Start Angle"
+msgstr ""
+
+#: elementor/charts/radial/widget/radial_chart.php:224
+msgid "End Angle"
+msgstr ""
+
+#: elementor/charts/timeline/widget/timeline_chart.php:170
+#: utils/graphina_chart_helper.php:1888
+msgid "Stroke Settings"
+msgstr ""
+
+#: elementor/charts/timeline/widget/timeline_chart.php:295
+msgid "From Date ( Y )"
+msgstr ""
+
+#: elementor/charts/timeline/widget/timeline_chart.php:304
+msgid "To Date ( Y )"
+msgstr ""
+
+#: elementor/charts/timeline/widget/timeline_chart.php:314
+msgid "Chart Value list"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:179
+msgid "Graphina Chart"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:261
+msgid "Nested Column"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:267
+msgid "Mixed"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:273
+msgid "Counter"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:279
+msgid "Advance DataTable"
+msgstr ""
+
+#: graphina-charts-for-elementor.php:100
+msgid "Docs"
+msgstr ""
+
+#: graphina-charts-for-elementor.php:102 utils/graphina_chart_helper.php:417
+msgid "Get Pro"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:43
+msgid "Smooth"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:44
+msgid "Straight"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:45
+msgid "Stepline"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:63 utils/graphina_chart_helper.php:881
+#: utils/graphina_chart_helper.php:1460 utils/graphina_chart_helper.php:1545
+msgid "Center"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:70 utils/graphina_chart_helper.php:859
+#: utils/graphina_chart_helper.php:877 utils/graphina_chart_helper.php:1456
+#: utils/graphina_chart_helper.php:1541
+msgid "Left"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:74 utils/graphina_chart_helper.php:851
+#: utils/graphina_chart_helper.php:885 utils/graphina_chart_helper.php:1464
+#: utils/graphina_chart_helper.php:1549
+msgid "Right"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:81
+msgid "On"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:82
+msgid "Between"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:100
+msgid "VerticalLines"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:101
+msgid "Squares"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:102
+msgid "HorizontalLines"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:103
+msgid "Circles"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:104
+msgid "SlantedLines"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:125
+msgid "Manual"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:126
+msgid "Dynamic"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:131
+msgid "CSV"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:132
+msgid "Google Sheet"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:133
+msgid "API"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:138
+msgid "SQL Builder"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:159
+msgid "Classic"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:165
+msgid "Gradient"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:171
+msgid "Pattern"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:192
+msgid "Basic Setting"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:199
+msgid "Card"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:210
+msgid "Heading"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:224
+msgid "Card Heading"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:237 utils/graphina_chart_helper.php:1516
+msgid "Description"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:275
+msgid "Chart Data Options"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:282
+msgid "Is Pro"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:291 utils/graphina_chart_helper.php:373
+#: utils/graphina_chart_helper.php:724
+msgid "Type"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:303
+msgid "Data "
+msgstr ""
+
+#: utils/graphina_chart_helper.php:345
+msgid "Default Negative Value"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:349
+msgid "Show default chart with some negative values"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:363
+msgid "Dynamic Data Options"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:390
+msgid "Get New Exciting Features"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:469
+msgid "When chart is empty, this text appears"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:483
+msgid "Label Settings"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:526 utils/graphina_chart_helper.php:554
+#: utils/graphina_chart_helper.php:1477 utils/graphina_chart_helper.php:1562
+#: utils/graphina_chart_helper.php:1805
+msgid "Font Color"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:540
+msgid "Show Background"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:567
+msgid "Background Color"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:580
+msgid "Border Width"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:595
+msgid "Border Color"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:610
+msgid "Label Prefix"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:621
+msgid "Label Postfix"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:658
+msgid "Style"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:697
+msgid "Gradient Setting"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:713
+msgid "Gradient Settings"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:728
+msgid "Vertical"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:742
+msgid "From Opacity"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:755
+msgid "To Opacity"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:768
+msgid "Inverse Color"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:791
+msgid "Legend Setting"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:831
+msgid "Legend"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:872
+msgid "Horizontal Align"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:959 utils/graphina_chart_helper.php:1231
+msgid "Pointer Line"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1057 utils/graphina_chart_helper.php:1305
+msgid "Tick Amount"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1071
+msgid "Tick Placement"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1085 utils/graphina_chart_helper.php:1343
+msgid "Labels Prefix/Postfix"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1099 utils/graphina_chart_helper.php:1357
+msgid "Labels Prefix"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1111 utils/graphina_chart_helper.php:1369
+msgid "Labels Postfix"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1134
+msgid "Y-Axis Setting"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1171
+msgid "Line"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1183
+msgid "Zero Indicator"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1194
+msgid "Stroke Dash"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1323
+msgid "If you enabled \"Labels Prefix/Postfix\", this won’t have any effect."
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1329
+msgid "Decimals In Float"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1390
+msgid "Style Section"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1441 utils/graphina_chart_helper.php:1526
+msgid "Typography"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1451 utils/graphina_chart_helper.php:1536
+msgid "Alignment"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1486 utils/graphina_chart_helper.php:1571
+msgid "Margin"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1501 utils/graphina_chart_helper.php:1586
+msgid "Padding"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1609
+msgid "Card Style"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1652 utils/graphina_chart_helper.php:1826
+msgid "Background"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1665 utils/graphina_chart_helper.php:1839
+msgid "Box Shadow"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1675 utils/graphina_chart_helper.php:1849
+msgid "Border"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1684 utils/graphina_chart_helper.php:1858
+msgid "Border Radius"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1708
+msgid "Chart Style"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1746
+msgid "Font Family"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1755
+msgid "Font Size"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1785
+msgid "Default"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1795
+msgid "Font Weight"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1814
+msgid "Chart Box"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1935
+msgid "Animation Settings"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1954
+msgid "Speed"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1966
+msgid "Delay"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2000 utils/graphina_chart_helper.php:2073
+msgid "Show Options"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2011 utils/graphina_chart_helper.php:2084
+msgid "Size"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2041
+msgid "Stroke Size"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2065
+msgid "Marker Settings"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2121
+msgid "Stroke Width"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2150
+msgid "Tooltip Settings"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2156
+msgid "Warning: This will may not work if markers are not shown."
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2173
+msgid "Warning: This will may not work for horizontal column chart."
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2178
+msgid "Shared"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2194
+msgid "Theme"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2199
+msgid "Light"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2203
+msgid "Dark"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2233
+msgid "Drop Shadow Settings"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2253
+msgid "Drop Shadow Top Position"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2265
+msgid "Drop Shadow Left Position"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2277
+msgid "Drop Shadow Blur"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2290
+msgid "Drop Shadow Color"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2303
+msgid "Drop Shadow Opacity"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2365
+msgid "Elements Setting"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2424
+msgid " "
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2436
+msgid "Tooltip Enabled"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2477
+msgid "Fill Pattern"
+msgstr ""
+
+#: utils/graphina_general_helper.php:46
+msgid "Required <strong>Version "
+msgstr ""
+
+#: utils/graphina_general_helper.php:48
+msgid "Download Version "
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Graphina - Elementor Charts and Graphs"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://iqonicthemes.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Your ultimate charts and graphs solution to enhance visual effects. Create "
+"versatile, advanced and interactive charts on your website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Iqonic Design"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://iqonic.design/"
+msgstr ""
